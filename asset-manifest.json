@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nethalin/addressbook.git/static/css/main.64d7cedc.chunk.css",
+    "main.js": "/Nethalin/addressbook.git/static/js/main.22778682.chunk.js",
+    "main.js.map": "/Nethalin/addressbook.git/static/js/main.22778682.chunk.js.map",
+    "runtime~main.js": "/Nethalin/addressbook.git/static/js/runtime~main.6e5587c5.js",
+    "runtime~main.js.map": "/Nethalin/addressbook.git/static/js/runtime~main.6e5587c5.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/Nethalin/addressbook.git/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/Nethalin/addressbook.git/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/Nethalin/addressbook.git/index.html",
+    "precache-manifest.ff64eb3a3629a97ff54720d9992924be.js": "/Nethalin/addressbook.git/precache-manifest.ff64eb3a3629a97ff54720d9992924be.js",
+    "service-worker.js": "/Nethalin/addressbook.git/service-worker.js",
+    "static/css/main.64d7cedc.chunk.css.map": "/Nethalin/addressbook.git/static/css/main.64d7cedc.chunk.css.map"
+  }
+}
